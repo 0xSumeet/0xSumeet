@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xsumeet&label=Profile%20views&color=0e75b6&style=flat" alt="0xsumeet" /> </p>
 
-- 🌱 I’m currently learning **Gin Framework**
-
 - 💬 Ask me about **Golang**
 
 
